@@ -1,6 +1,6 @@
 # project-defense
 
-Credit By Osman Cengeri
+Credit By Osman Cengeri and Berke Balcidan
 
 Mobile Game
 
